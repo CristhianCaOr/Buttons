@@ -1,3 +1,7 @@
+body{
+  height: 6000px;
+}
+
 .tasks{
   font-size: 20px;
   font-weight: bold;
@@ -63,7 +67,7 @@
    width: 500px;
    height: 190px;
    padding-left: 10px;
-   border: 1px solid #017500;
+  
  
  }
  
@@ -164,5 +168,23 @@
    font-family: Arial, Helvetica, sans-serif;
    width: 230px;
    margin-top: 3px;
-   
- }
+}
+
+.t59-1{
+  position: fixed;
+  background-color: black;
+  width: 83px;
+  color: white;
+  bottom: 60px;
+  right: 150px;
+}
+
+.t60{
+position: fixed;
+width: 100px;
+bottom: 0;
+top: 0;
+right: 0px;
+background-color: green;
+
+}
