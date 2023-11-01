@@ -1,0 +1,118 @@
+.tasks{
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 7px;
+    margin-bottom: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: red;
+  }
+
+.t26-1{
+    width: 180px;
+    align-self: center;
+    display: block;
+    margin-left: 90px;
+    margin-bottom: 5px;
+    }
+    
+    .t26-2{
+      width: 400px;
+      height: 30px;
+      border: none;
+      box-shadow: 0 0 4px rgba(142, 141, 141, 0.435);
+      border-radius: 6px;
+      font-family: Arial, Helvetica, sans-serif;
+    }
+    
+    .t27-1, .t27-2{
+      display: inline-block;
+      height: 30px;
+      border-radius: 5px;
+      border-style: solid; 
+      border-color: rgb(207, 207, 207);
+      margin-bottom: 6px;
+      font-family: Arial, Helvetica, sans-serif;
+    }
+    
+    
+    
+    .t27-3{
+      height: 30px;
+      width: 342px;
+      display: block;
+      margin-bottom: 6px;
+      border-radius: 5px;
+      border-color: rgb(207, 207, 207);
+      border-style: solid; 
+    }
+    
+    .t27-4{
+      background-color: rgb(0, 132, 255);
+      color: white;
+      border: none;
+      height: 40px;
+      width: 337px;
+      border-radius: 10px;
+      cursor: pointer;
+      font-weight: bold;
+      font-size: 15px;
+      transition: box-shadow 0.10s;
+    
+      margin-top: 10px;
+    }
+    
+    .t28-1 {
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 40px;
+      margin-bottom: 25px;
+      
+    }
+    
+    .t28-2, .t28-3 {
+      display: block;
+      background-color: rgb(240, 240, 240);
+      border: none;
+      margin-bottom: 6px;
+      width: 300px;
+      height: 30px;
+      padding-left: 20px;
+      
+    }
+    
+    
+    .t28-4{
+      margin-top: 10px;
+      background-color: black;
+      color: white;
+      border: none;
+      height: 35px;
+      width: 115px;
+      cursor: pointer;
+      transition: opacity 0.10s;
+      margin-right: 10px;
+    }
+    
+    .t28-5{
+      margin-top: 10px;
+      background-color:rgb(240, 240, 240);
+      color: black;
+      border: none;
+      height: 35px;
+      width: 130px;
+      cursor: pointer;
+      transition: opacity 0.10s;
+    
+    }
+    
+    .t29-1{
+      width: 60px;
+      height: 60px;
+      background-color: red;
+    }
+    
+    .t30-1{
+    height: 80px;
+    width: 80px;
+    border-radius: 60px;
+    background-color: green;
+    }

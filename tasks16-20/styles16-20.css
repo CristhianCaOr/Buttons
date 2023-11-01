@@ -1,0 +1,63 @@
+.tasks{
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 7px;
+    margin-bottom: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: red;
+  }
+
+
+.t16-p1 {
+    font-weight: bold;
+    margin-bottom: 0px;
+  
+  }
+  
+  
+  .t16-s1 {
+  color: #686869;
+  font-weight: normal;
+  
+  } 
+  
+  .t16-P2 {
+  width: 500px;
+  margin-top: 5px;
+  }
+  
+  .t16-s2 {
+  
+  color: rgb(2, 200, 255);  
+  }
+  
+  .t17{
+    width: 400px;
+    border-radius: 25px;
+    margin-bottom: 10px;
+  }
+  
+  .t18 {
+  width: 400px;
+  height: 380px;
+  object-fit: cover;
+  object-position: center;
+  margin-bottom: 10px;
+  }
+  
+  
+  
+  
+  .t19{
+  width: 300px;
+  height: 300px;
+  border-radius: 400px;
+  }
+  
+  .t20 {
+  height: 25px;
+  border-radius: 6px;
+  border-style: solid;
+  border-color: rgb(157, 157, 157);
+  border-width: 1.5px;
+  }

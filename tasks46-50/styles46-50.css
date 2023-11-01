@@ -1,0 +1,128 @@
+.tasks{
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 7px;
+    margin-bottom: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: red;
+  }
+
+
+.t46-1{
+    display: flex;
+    flex-direction: row;
+  }
+  
+  .t46-2{
+    background-color: lightblue;
+    width: 50px;
+  }
+  
+  .t46-3{
+    background-color: lightpink;
+    flex: 1;
+  }
+  
+  .t46-4{
+    background-color: lightblue;
+    width: 75px;
+  }
+  
+  .t47-1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  
+  .t47-1 div{
+    background-color: lightpink;
+  
+  }
+  
+  .t48-1{
+    display: flex;
+    flex-direction: row;
+    height: 50px;
+    align-items: center;
+    border-style: solid;
+    border-color: gray;
+    justify-content: space-between;
+  }
+  
+  .t48-1 div{
+    background-color: lightpink;
+  }
+  
+  .t49-1{
+  height: 100px;
+  border-style:solid;
+  border-color: grey;
+  border-radius: 4px;
+  }
+  
+  .t49-2{
+    justify-content: space-between;
+    align-items: start;
+    padding-top: 10px;
+    padding-right: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500px;
+    display: flex;
+    flex-direction: row;
+  }
+  
+  .t49-3{
+  margin: 0px;
+  margin-left: 10px;
+  }
+  
+  .t49-4{
+    background-color: #2D6ED4;
+    color: white;
+    font-weight: bold;
+    border-style: none;
+    border-radius: 40px;
+    height: 20px;
+    width: 30px;
+  }
+  
+  .t50-1{
+    height: 284px;
+  }
+  
+  .t50-div{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    height: 100px;
+  }
+  
+  .t50-img{
+    width: 60px;
+    border-radius: 40px;
+    margin-left: 10px;
+    margin-right: 20px;
+  }
+  
+  .t50-div2{
+    margin-left: 0px; 
+    margin-right: 130px;
+  }
+  
+  .t50-div2 p{
+    margin-bottom: 5px;
+    margin-top: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 100px;
+  }
+  
+  .t50-boton{
+  background-color: rgb(52, 133, 209);
+  color: white;
+  font-weight: bold;
+  border-style: none;
+  border-radius: 4px;
+  width: 70px;
+  height: 35px;
+  cursor: pointer;
+  }

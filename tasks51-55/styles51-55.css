@@ -1,0 +1,103 @@
+.tasks{
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 7px;
+    margin-bottom: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: red;
+  }
+
+  .t51-1{
+    display: flex;
+    flex-direction: row;
+    background-color: #634193;
+    width: 700px;
+    height: 45px;
+    align-items: center;
+    justify-content: space-between;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-weight: bold;
+  }
+  
+  .t51-input{
+    width: 350px;
+    height: 25px;
+    border: none;
+    border-radius: 20px;
+    padding-left: 15px;
+    font-size: small;
+  }
+  
+  .t51-boton{
+    background-color: #634193;
+    height: 30px;
+    width: 80px;
+    border-radius: 3px;
+    border-color: white;
+    border-style: solid;
+    border-width: 0.4px;
+    color: white;
+  }
+  
+  .t52-1{
+    display: flex; 
+    flex-direction: row;
+  }
+  
+  .t52-2{
+    background-color: lightpink; 
+    width: 100px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    height: 50px;
+    justify-content: center;
+  }
+  
+  .t52-2 p{
+   background-color: black;
+    color: white;
+    width: 37px;
+    margin: 0px;
+    
+  }
+  
+  
+  .t52-3{
+    background-color: lightblue;
+    width: 200px;
+  }
+  
+  .t53-1{
+    display: flex;
+    flex-direction: row;
+  }
+  
+  .t53-2{
+    background-color: lightpink;
+    width: 100px;
+  }
+  
+  .t53-3{
+  background-color: lightblue;
+  width: 200px;
+  }
+  
+  .t53-3 p{
+  margin: 0px;
+  
+  
+  }
+  
+  .t53-flex{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  
+  .t53-flex p{
+    margin-bottom:15px;
+    background-color: black;
+    color: white;
+  }
