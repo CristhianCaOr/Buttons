@@ -1,0 +1,72 @@
+.contenedor{
+    width: 150px;
+    height: 120px;
+    display: flex;
+   justify-content: center;
+}
+
+.anuncio{
+    width: 150px;
+    height: 120px;
+    position: relative;
+    
+}
+.moto{
+    height: 100%;
+    width: 100%;
+    z-index: 100;
+}
+
+.precio{
+    margin: 0px;
+    display: inline-block;
+    position: absolute;
+    right: 0px;
+    top: 3px;
+
+    background-color: rgb(108, 108, 108);
+    padding: 3px;
+
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-size: 5px;
+}
+
+.carrito{
+    width: 150px;
+    height: 50px;
+    display: inline-block;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    background-color: rgb(225, 225, 225);
+    opacity: 0.8;
+}
+
+.boton-carrito{
+width: 50px;
+height: 15px;
+
+font-size: 6px;
+
+
+border: solid black;
+
+margin-left:25%;
+margin-top: 10%;
+
+background-color: white;
+opacity: 9;
+
+position: absolute;
+bottom: 18px;
+left: 8px;
+z-index: 1;
+
+cursor: pointer;
+}
+
+.boton-carrito:hover{
+    background-color: gray;
+    color: white;
+}
