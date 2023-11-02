@@ -1,0 +1,102 @@
+a{
+    text-decoration: none;
+}
+
+
+.contenedor{
+    width: 300px;
+    height: 260px;
+    border-radius: 5px;
+    box-shadow: 0 0 2px black;
+    position: relative;
+}
+
+
+
+.informacion-contenido{
+    display: grid;
+    grid-template-columns: 40px 1fr;
+
+}
+
+.foto-canal{
+    height: 110%;
+    padding-left: 5px;
+}
+
+
+
+
+
+.info-video p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.titulo-video{
+    margin: 0;
+    margin-bottom: 10px;
+}
+
+.nombre-canal, .metricas-video {
+    margin: 0px;
+    font-size: 13px;
+    color: gray;
+}
+
+
+.video{
+    width: 300px;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px
+}
+
+
+
+.foto-perfil{
+    width: 30px;
+    border-radius: 30px;
+}
+
+.tarjeta-canal{
+    width: 200px;
+    height: 70px;
+    border: solid 1px red;
+    display: flex;
+    background-color: rgb(216, 36, 36);
+    padding-left: 10px;
+    border-radius: 9px;
+    align-items: center;
+    position: absolute;
+    bottom: -30px;
+    opacity: 1;
+}
+
+.foto-canal:hover .tarjeta-canal{
+    opacity: 1;
+}
+
+
+.perfil-2{
+    width: 60px;
+    border-radius: 30px;
+    margin-right: 5px;
+}
+
+.tarjeta-info p{
+margin-top: 0px;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+.canal-2{
+ color: black;   
+ margin-top: 9px; 
+ margin-bottom: 2px;
+ width: 100%;
+ font-weight: 700;
+}
+
+.subscribers{
+    color: rgb(90, 90, 90);
+    margin: 0px;
+    font-size: 12px;
+}
